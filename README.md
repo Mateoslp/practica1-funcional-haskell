@@ -16,7 +16,7 @@ Este README documenta el desarrollo de los ítems 3.1, 3.2 y 3.3 usando Haskell.
 
 - **Integrantes:** Juan Fernando Gomez Rivas, Ikker Mateo Gil Jordán.
 - **Repositorio GitHub:** [https://github.com/Mateoslp/practica1-funcional-haskell](https://github.com/Mateoslp/practica1-funcional-haskell)
-- **Video en YouTube: ** 
+- **Video en YouTube:**
 
 En el video deben presentarse los integrantes (con cámara), explicar el código, señalar problemas/soluciones y mostrar una ejecución de pruebas.
 
